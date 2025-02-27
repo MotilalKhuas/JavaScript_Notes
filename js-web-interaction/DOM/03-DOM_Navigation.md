@@ -3,7 +3,7 @@ All operations on the DOM start with the <mark><ins>**document**</ins></mark> ob
 The topmost tree nodes are available directly as document properties:
 
 <figure>
-    <img src="./assets/dom-nodes-1.png">
+    <img src="./assets/dom-nodes-1.png" height="300px">
     <figcaption>
         <i>Picture of links that allow for travel between DOM nodes.</i>
     </figcaption>
